@@ -1,0 +1,26 @@
+{
+  "name": "qa-automation-paolaescudero",
+  "version": "1.0.0",
+  "description": "- Estoy en la parte de procesos del SDH de la cuenta Microsoft\r - Mi expectativa es incorporar herramientas y buenas prácticas de QA que me ayuden a analizar procesos, detectar riesgos y promover mejoras continuas.\r - Me gusta crear",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pescuderovml/qa-automation-paolaescudero.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/pescuderovml/qa-automation-paolaescudero/issues"
+  },
+  "homepage": "https://github.com/pescuderovml/qa-automation-paolaescudero#readme",
+  "devDependencies": {
+    "@types/node": "^26.6.3",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
