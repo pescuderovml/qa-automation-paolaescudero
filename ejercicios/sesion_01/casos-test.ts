@@ -10,7 +10,7 @@ const testcases = [
         titulo: "Test Case 02",
         prioridad: "media",
         ejecutado: false
-    },
+    },  
     {
         id: 3,
         titulo: "Test Case 03",
